@@ -1,2 +1,2 @@
 # git-test
-just test git
+just test git purpse
